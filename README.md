@@ -10,5 +10,5 @@ This repository contains Jupyter notebooks demonstrating and explaining various 
 - `coding_mask_self_attention.ipynb`  
   Shows how masked self-attention is used in autoregressive models like GPT to prevent future token information leakage.
 
-- `coding_alltypes_ofattention.ipynb`  
+- `coding_alltypes_of_attention.ipynb`  
   A combined walkthrough covering different types of attention (self, masked, additive, scaled dot-product, etc.)
